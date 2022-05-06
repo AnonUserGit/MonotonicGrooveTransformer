@@ -1,3 +1,47 @@
+Standalone pd version
+----
+
+Download from:
+
+    https://drive.google.com/file/d/1UNStMxSwrzzJ1-gr0oGjWJdtQ8m_0MVP/view?usp=sharing
+    
+    
+Demos
+----
+All Videos \& Audios:
+
+        https://drive.google.com/drive/folders/1ulW6s68WM4-1pQlGoRKvZF66t_2t1qAy?usp=sharing
+   
+
+OR Use the following links:
+   
+
+1. A detailed overview of the training process
+
+    
+        https://github.com/AnonUserGit/AIMC2022/blob/main/Detailed%20Training%20Overview.pdf
+    
+    
+2. A Tutorial on how to use the system
+
+
+        https://vimeo.com/706414509
+    
+    
+3. A video recording of a typical jam session with the system 
+
+
+        https://vimeo.com/706414714
+    
+    
+4. Audio Recordings of some Jams & Generations using the system
+
+
+        https://soundcloud.com/anonomy-submer/sets/realtime_sessions
+    
+    
+
+
 Updates 
 ----
 
